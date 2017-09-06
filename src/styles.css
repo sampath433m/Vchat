@@ -16,3 +16,12 @@ button {
     margin-bottom: 30px;
     cursor:pointer;
 }
+header{
+    float: left;
+    color: red;
+}
+footer{
+    float: right;
+    color: red;
+    background-color: red;
+}
