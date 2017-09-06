@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color:#292323;
+    
+}
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+button {
+    background:#5C32C4;
+    color:white;
+    padding: 1em;
+    width:200px;
+    text-align:center;
+    font-size:1em;
+    margin-bottom: 30px;
+    cursor:pointer;
+}
+footer{
+    color: white;
+    padding-bottom:5px;
+    text-align: right;
+}
+header{
+    text-align: right;
+}
