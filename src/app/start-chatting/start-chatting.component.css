@@ -10,7 +10,7 @@ input#message {
 }
 
 #details-container {
-    display:flex;
+    display:inline;
     flex-direction: row;
     flex-wrap:wrap;
     width:100%;

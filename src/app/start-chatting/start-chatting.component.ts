@@ -18,7 +18,7 @@ export class StartChattingComponent {
   constructor(public afAuth: AngularFireAuth, public af: AngularFireDatabase) {
     this.items = af.list('/messages', {
       query: {
-        limitToLast: 50
+        limitToLast: 5
       }
     });
 
