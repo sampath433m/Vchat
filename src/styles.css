@@ -15,3 +15,12 @@ button {
     margin-bottom: 30px;
     cursor:pointer;
 }
+
+header{
+    color:black;
+}
+
+footer{
+    color: white;
+    float: right;
+}
