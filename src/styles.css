@@ -1,19 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
 body {
-    background-color:#A9A1A1;
-    
+    background-color:#EBEBEB;
+    padding-top: 5em;
 }
 * {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family: 'Raleway';
 }
 button {
-    background:#5C32C4;
-    color:#161313;
-    padding: 1em;
-    width:200px;
+    background:#008FEF;
+    color:white;
+    padding: 1.2em;
+    width:300px;
     text-align:center;
-    font-size:1em;
+    font-size:1.2em;
     margin-bottom: 30px;
     cursor:pointer;
 }
-
