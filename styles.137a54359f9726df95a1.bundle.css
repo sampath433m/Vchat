@@ -1,4 +1,4 @@
-body{background-color:#ebebeb;padding-top:5em}*{font-family:Raleway}button{background:#008fef;color:#fff;padding:1.2em;width:300px;text-align:center;font-size:1.2em;margin-bottom:30px;cursor:pointer}footer,header{color:#000}footer{float:right}/*!
+body{background-color:#ebebeb;padding-top:5em}*{font-family:Raleway}button{background:#008fef;color:#fff;padding:1.2em;width:300px;text-align:center;font-size:1.2em;margin-bottom:30px;cursor:pointer}footer,header{color:#000}footer{position:fixed;left:0;bottom:0;height:30px;width:100%}/*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
