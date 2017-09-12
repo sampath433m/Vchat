@@ -26,8 +26,7 @@ export class StartChattingComponent {
       }
     });
 
-    //this.user = this.afAuth.authState;
-   // this.user = this.afAuth.authState;
+
 
    this.afAuth.auth.onAuthStateChanged((auth) => {
     if (auth) {
